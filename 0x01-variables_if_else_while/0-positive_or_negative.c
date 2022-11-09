@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /**
-  * main - entry point
+  * main - Entry point
   *
   * Return: is zero
   *
@@ -25,7 +25,7 @@ int main(void)
 					printf("%d is zero\n", n);
 				} else if (n < 0)
 				{
-					printf("%d is negetive\n", n);
+					printf("%d is negative\n", n);
 				}
 					return (0);
 }

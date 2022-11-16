@@ -3,7 +3,7 @@
   * void print_alphabets - Entry point
   * Return: void
   */
-void print_alphabets(void)
+void print_alphabet(void)
 {
 	int ch;
 

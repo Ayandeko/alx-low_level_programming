@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * int_is lower - Entry point
+  * _is lower - Entry point
   * @c: a character argument
   * Return: 1 for success and 0 for fail
   */

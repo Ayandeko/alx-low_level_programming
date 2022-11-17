@@ -6,5 +6,7 @@
 int _abs(int)
 {
 	int r;
+
+	r = 0;
 	return (0);
 }

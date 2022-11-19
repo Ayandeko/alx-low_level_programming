@@ -3,6 +3,7 @@
 /**
   * print_to_98 - Entry point
   * Return: void
+  * @n: a character argument
   */
 void print_to_98(int n)
 {

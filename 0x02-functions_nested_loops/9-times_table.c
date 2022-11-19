@@ -18,7 +18,6 @@ void times_table(void)
 			rep = a * b;
 			if (b == 0)
 			{
-				_putchar(',');
 				_putchar(' ');
 				_putchar('0' + rep);
 			}

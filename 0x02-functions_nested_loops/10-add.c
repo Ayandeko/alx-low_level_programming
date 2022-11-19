@@ -3,7 +3,7 @@
   * add - Entry point
   * Return: returns result
   */
-int add(int a, int b)
+int add(int, int)
 {
 	int a;
 	int b;

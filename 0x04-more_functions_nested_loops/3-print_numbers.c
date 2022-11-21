@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
   *print_numbers - function that print all numbers from
@@ -7,11 +8,9 @@
   */
 void print_numbers(void)
 {
-	int number = 48;
+	int b;
 
-	for (number = 48; number < 58; number++)
-	{
-		_putchar(number);
-	}
-	_putchar(10);
+	for (b = '0' ; b <= '9'; b++)
+		_putchar(b);
+	_putchar('\n');
 }

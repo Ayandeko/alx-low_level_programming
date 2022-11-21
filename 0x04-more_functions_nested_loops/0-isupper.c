@@ -2,6 +2,7 @@
 /**
   * _isupper - Entry point
   * Return: 1 for success, and 0 when failed
+  * @c: a character argument
   */
 
 int _isupper(int c)

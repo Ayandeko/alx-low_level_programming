@@ -1,17 +1,14 @@
 #include "main.h"
 /**
-  * print_numbers - function that print all numbers from
-  * @n: a character argument
-  * Return: returns nothing
+  * print_numbers - Entry point
+  * Return: void
+  * @n: character argument
   */
 void print_numbers(void)
 {
-	int n = 0;
+	int n;
 
-	while (n <= '9')
-	{
+	for (n = '0' ; n <= '9' ; n++)
 		_putchar(n);
-	}
-	n++;
 	_putchar('\n');
 }

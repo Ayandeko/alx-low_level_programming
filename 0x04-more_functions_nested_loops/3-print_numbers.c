@@ -4,8 +4,6 @@
   * print_numbers - Entry point
   *
   * Return: void
-  *
-  * @n: a character argument
   */
 
 void print_numbers(void)

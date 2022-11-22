@@ -1,9 +1,13 @@
 #include "main.h"
+
 /**
   * print_numbers - Entry point
+  *
   * Return: void
-  * @n: character argument
+  *
+  * @n: a character argument
   */
+
 void print_numbers(void)
 {
 	int n;

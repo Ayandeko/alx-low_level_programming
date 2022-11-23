@@ -2,7 +2,8 @@
 /**
   * swap_int - Entry point
   * Return: void
-  * @x: a variable
+  * @a: a pointer variable
+  * @b: a pointer variable
   */
 void swap_int(int *a, int *b)
 {

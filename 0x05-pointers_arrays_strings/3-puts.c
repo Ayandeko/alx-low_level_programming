@@ -1,17 +1,18 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
-  * _puts - Entry point
-  * Return: void
-  * *str: pointer value
+  * _puts - print a string
+  * @str:pointer char
+  * return:void
   */
 void _puts(char *str)
 {
-	int i;
+		int i;
 
-	for (i = 0 ; str[i] != '\0' ; i++)
-	{
-		_putchar(str[i]);
-	}
-	_putchar('\n');
-	return;
+		for (i = 0; str[i] != '\0'; i++)
+		{
+			_putchar(str[i]);
+		}
+		_putchar('\n');
+		return;
 }

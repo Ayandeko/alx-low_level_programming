@@ -1,5 +1,5 @@
 #include "main.h"
-/** 
+/**
   * _strcat -Entry point
   * Return: dest
   * @dest: first string
